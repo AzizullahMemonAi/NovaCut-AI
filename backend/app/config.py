@@ -72,7 +72,7 @@ class Settings(BaseSettings):
     FFPROBE_PATH: str = os.getenv("FFPROBE_PATH", shutil.which("ffprobe") or "ffprobe")
 
     # CORS
-    CORS_ORIGINS: List[str] = ["http://localhost:3000", "http://localhost:5173", "http://127.0.0.1:5173"]
+    CORS_ORIGINS: List[str] = ["*"]
 
 
 @lru_cache
