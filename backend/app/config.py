@@ -25,7 +25,7 @@ class Settings(BaseSettings):
     PORT: int = 8000
 
     # Database
-    DATABASE_URL: str = f"sqlite+aiosqlite:///{os.path.join(BASE_DIR, 'app.db').replace('\\', '/')}"
+    DATABASE_URL: str = "sqlite+aiosqlite:///" + os.path.join(BASE_DIR, 'app.db').replace('\\', '/')
 
     # Security
     SECRET_KEY: str = Field(default="changeme-use-strong-random-key-in-production-min-32-chars", min_length=32)
