@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: novacut-backend
+    env: docker
+    plan: free
+    dockerContext: ./backend
+    dockerfilePath: ./backend/Dockerfile
+    envVars:
+      - key: PORT
+        value: "8000"
+      - key: APP_NAME
+        value: "NovaCut AI"
+      # The generated database URL, using a persistent disk if upgraded to a paid plan.
+      # For the Free tier, data is ephemeral.
+      - key: CORS_ORIGINS
+        # Allow all origins for the free deployment to ensure the frontend can connect
+        value: '["*"]' 
+
+  - type: static
+    name: novacut-frontend
+    plan: free
+    # We construct the VITE_API_BASE_URL by appending /api/v1 to the backend's URL
+    buildCommand: export VITE_API_BASE_URL="${BACKEND_URL}/api/v1" && cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/dist
+    # Configure React Router fallback
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: BACKEND_URL
+        fromService:
+          type: web
+          name: novacut-backend
+          envVarKey: RENDER_EXTERNAL_URL

@@ -1,0 +1,78 @@
+
+> frontend@0.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v8.1.4[39m  [2mready in [0m[1m865[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m5:42:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:42:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:03 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:43:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:43:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m5:44:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:44:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:44:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:45:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:45:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:45:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:52:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:53:48 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:54:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:54:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:54:20 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:54:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:54:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.css[22m
+[2m5:54:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.css[22m
+[2m5:55:20 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m5:55:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:55:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:55:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m5:55:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Timeline.jsx[22m
+[2m6:11:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m8:52:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/AITools.jsx[22m
+[2m8:53:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m8:53:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m8:53:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m8:54:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m9:28:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m9:28:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.jsx[22m
+[2m9:28:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.jsx[22m
+[2m9:29:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.jsx[22m
+[2m9:29:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.css[22m
+[2m9:29:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.css[22m
+[2m9:29:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Settings.css[22m
+[2m9:46:03 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m9:46:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m9:46:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m9:46:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m9:47:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Editor.jsx[22m
+[2m9:47:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m9:47:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m9:49:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m9:15:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m9:15:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m9:21:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m9:21:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:21:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:22:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:22:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:22:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.css[22m
+[2m9:23:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:31:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m9:31:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectDetail.jsx[22m
+[2m10:02:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m10:02:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m10:28:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m
+[2m10:29:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/components/ProtectedRoute.jsx, /src/components/Auth.jsx, /src/components/Workspace.jsx, /src/pages/Editor.jsx, /src/pages/Settings.jsx, /src/pages/AITools.jsx, /src/pages/MediaLibrary.jsx, /src/pages/ProjectDetail.jsx, /src/components/AIAssistant.jsx, /src/components/Timeline.jsx, /src/components/VideoPlayer.jsx[22m

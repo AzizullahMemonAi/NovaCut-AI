@@ -1,0 +1,42 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+alembic==1.14.1
+aiosqlite==0.20.0
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.19
+bcrypt==4.2.1
+google-auth==2.37.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+cryptography==44.0.0
+
+# AI Services
+google-generativeai==0.8.3
+SpeechRecognition==3.10.4
+
+# Video Processing
+ffmpeg-python==0.2.0
+python-magic==0.4.27
+
+# File Handling
+aiofiles==24.1.0
+
+# Utilities
+pydantic-extra-types==2.10.3
+email-validator==2.2.0
+httpx==0.28.1
+tenacity==9.0.0
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0

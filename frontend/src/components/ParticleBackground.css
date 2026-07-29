@@ -1,0 +1,8 @@
+.particle-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: var(--color-background);
+}
