@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
+import logo from '../assets/logo.png';
 import './Sidebar.css';
 
 // SVG Icons inline to avoid external dependencies
@@ -75,7 +76,7 @@ const Sidebar = () => {
           style={{ cursor: 'pointer' }}
           title="Go to Home"
         >
-          <img src="/src/assets/logo.png" alt="NovaCut AI logo" className="sidebar-logo-img" />
+          <img src={logo} alt="NovaCut AI logo" className="sidebar-logo-img" />
         </div>
         <span className="sidebar-brand-name">NovaCut AI</span>
       </div>

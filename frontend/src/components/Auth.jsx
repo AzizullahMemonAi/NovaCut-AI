@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { GoogleLogin, GoogleOAuthProvider } from '@react-oauth/google';
 import { useNavigate, useLocation, Link } from 'react-router-dom';
 import { loginUser, registerUser, loginWithGoogle } from '../api/client';
+import logo from '../assets/logo.png';
 import './Auth.css';
 
 const Auth = () => {
@@ -118,7 +119,7 @@ const Auth = () => {
       <div className="auth-card">
         <div className="auth-header">
           <div className="auth-logo">
-            <img src="./src/assets/logo.png" alt="NovaCut AI" style={{ height: '48px', objectFit: 'contain' }} />
+            <img src={logo} alt="NovaCut AI" style={{ height: '48px', objectFit: 'contain' }} />
           </div>
           <h2>{isLogin ? 'Welcome Back' : 'Create Account'}</h2>
           <p>{isLogin ? 'Log in to continue editing' : 'Sign up to start creating'}</p>
